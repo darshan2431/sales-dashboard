@@ -43,9 +43,8 @@ No install, no build step, no dependencies to manage.
 
 ## Screenshots
 
-| Light mode | Dark mode |
-|---|---|
-| Dashboard with all regions selected | Auto-switches via system preference |
+<img width="1102" height="887" alt="image" src="https://github.com/user-attachments/assets/0fe4ad9b-9413-40b7-a9b0-05b25e98d18f" />
+
 
 ## What I Learned
 
